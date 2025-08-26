@@ -1,6 +1,6 @@
 const clueData = {
     '1': {
-        password: "Bhasker-Bhaskar",
+        password: "BhaskerAndBhaskar",
         redirect: "https://drive.google.com/file/d/1LgXXA5Zo4s4aioFuVP45KI9sN68QQbmp/view?usp=share_link"
     },
     '2': {
