@@ -1,6 +1,6 @@
 const clueData = {
     '1': {
-        password: "Bhasker",
+        password: "bhasker",
         redirect: "https://drive.google.com/file/d/1LgXXA5Zo4s4aioFuVP45KI9sN68QQbmp/view?usp=share_link"
     },
     '2': {
@@ -8,19 +8,19 @@ const clueData = {
         redirect: "https://drive.google.com/file/d/1SgVb8q-Q31GWq7NU_hH5RwOIRefVubDV/view?usp=share_link"
     },
     '3': {
-        password: "2023A3IS0130G",
+        password: "2023a3is0130g",
         redirect: "https://drive.google.com/file/d/15kZ7cqBMxBTp5lWnIx9sq7Nr01uEoRU8/view?usp=share_link"
     },
     '4': {
-        password: "Jenny",
+        password: "jenny",
         redirect: "https://drive.google.com/file/d/1rPLjiZtZSOANy9gaZVFsQxtDGOFn2-vP/view?usp=share_link"
     },
     '5': {
-        password: "Tilak",
+        password: "tilak",
         redirect: "https://drive.google.com/file/d/13gqLNWxG5cb6gOKe8NvsS-NMWKz7tKcM/view?usp=share_link"
     },
     '6': {
-        password: "Geronimo",
+        password: "geronimo",
         redirect: "https://docs.google.com/document/d/1HpNCzKUhvTXrmsotys_Oaql_gCzOgzbhxDI79VRyPGI/edit?usp=sharing"
     }
 };
